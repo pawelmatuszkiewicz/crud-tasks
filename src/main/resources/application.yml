@@ -1,0 +1,19 @@
+# ACTUATOR INFO
+info:
+  app:
+    name: Tasks Application
+    description: Application has been created on Kodilla Course!
+    version: 1.0.0
+    owner:
+      name: Pawel
+      surname: Matuszkiewicz
+    administrator:
+      email: myemail@test.com
+      address:
+        street: Super Cool Street
+        number: 42
+  company:
+    name: TaskCrudAppCreator
+    goal: Our goal is to make the world a better place!
+    email: tasks@crud.com
+    phone: 744489230
